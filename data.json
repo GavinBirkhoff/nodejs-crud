@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "javascript指南",
+        "author": "gavin1",
+        "category": "前端",
+        "description": "必须看的书"
+    },
+    {
+        "id": 2,
+        "name": "nodejs实战",
+        "author": "gavin2",
+        "category": "前端",
+        "description": "js可以整后端"
+    },
+    {
+        "id": 3,
+        "name": "c++",
+        "author": "gavin3",
+        "category": "后端",
+        "description": "程序员必须书"
+    },
+    {
+        "id": 4,
+        "name": "webkit",
+        "author": "gavin",
+        "category": "浏览器",
+        "description": "提高前端层次的书"
+    },
+    {
+        "id": "5",
+        "name": "java",
+        "author": "gavin5",
+        "category": "计算机",
+        "description": "思想很好的语言",
+        "_locals": {}
+    }
+]
